@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd252e6-51fe-4887-ac3c-d6b74bcbd907" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter-4-exercises/countToTwenty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-4-exercises/cubes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-4-exercises/multiplesThree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-4-exercises/oddNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-4-exercises/oneToMillion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-4-examples/foods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-4-examples/players.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,46 +26,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="16" />
+          <entry key="py" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="16" />
+          <entry key="Python" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4458" />
+          <entry key="py" value="4934" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4458" />
+          <entry key="Python" value="4934" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter-4-examples/magicians.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter-4-exercises/pizzas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter-4-exercises/animals.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,11 +111,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter-4-exercises/cubes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter-4-examples/players.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter-4-examples/foods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -180,6 +177,8 @@
         <option value="$PROJECT_DIR$/chapter-4-exercises/oddNumbers.py" />
         <option value="$PROJECT_DIR$/chapter-4-exercises/multiplesThree.py" />
         <option value="$PROJECT_DIR$/chapter-4-exercises/cubes.py" />
+        <option value="$PROJECT_DIR$/chapter-4-examples/players.py" />
+        <option value="$PROJECT_DIR$/chapter-4-examples/foods.py" />
       </list>
     </option>
   </component>
@@ -212,11 +211,6 @@
               <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
               <item name="chapter-4-examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter-4-exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -559,7 +553,21 @@
     <entry file="file://$PROJECT_DIR$/chapter-4-exercises/cubes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-4-examples/players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-4-examples/foods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
