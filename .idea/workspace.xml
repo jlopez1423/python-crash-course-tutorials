@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd252e6-51fe-4887-ac3c-d6b74bcbd907" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter8-examples/pets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-crash-course-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-crash-course-tutorials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8-exercises/cities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8-exercises/tshirt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,22 +29,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="50" />
+          <entry key="py" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="50" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="14216" />
+          <entry key="py" value="14686" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="14216" />
+          <entry key="Python" value="14686" />
         </counts>
       </usages-collector>
     </session>
@@ -123,7 +122,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter8-examples/pets.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -131,6 +130,32 @@
               <folding>
                 <marker date="1539056970077" expanded="true" signature="40:41" ph="..." />
                 <marker date="1539056970077" expanded="true" signature="40:45" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter8-exercises/tshirt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <marker date="1539228500611" expanded="true" signature="54:55" ph="..." />
+                <marker date="1539228500611" expanded="true" signature="54:59" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter8-exercises/cities.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <marker date="1539228656043" expanded="true" signature="42:43" ph="..." />
+                <marker date="1539228656043" expanded="true" signature="42:47" ph="..." />
               </folding>
             </state>
           </provider>
@@ -156,8 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter-3-exercises/names.py" />
-        <option value="$PROJECT_DIR$/chapter-3-exercises/greetings.py" />
         <option value="$PROJECT_DIR$/chapter-3-exercises/own-list.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ch3-examples/motorcycles.py" />
@@ -207,6 +230,8 @@
         <option value="$PROJECT_DIR$/chapter8-exercises/message.py" />
         <option value="$PROJECT_DIR$/chapter8-exercises/favoriteBook.py" />
         <option value="$PROJECT_DIR$/chapter8-examples/pets.py" />
+        <option value="$PROJECT_DIR$/chapter8-exercises/tshirt.py" />
+        <option value="$PROJECT_DIR$/chapter8-exercises/cities.py" />
       </list>
     </option>
   </component>
@@ -234,6 +259,11 @@
             <path>
               <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8-examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
@@ -451,20 +481,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch3-examples/motorcycles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="18" column="3" selection-start-line="18" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter-3-exercises/own-list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter-3-exercises/greetings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -810,6 +826,28 @@
           <folding>
             <marker date="1539056970077" expanded="true" signature="40:41" ph="..." />
             <marker date="1539056970077" expanded="true" signature="40:45" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8-exercises/tshirt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1539228500611" expanded="true" signature="54:55" ph="..." />
+            <marker date="1539228500611" expanded="true" signature="54:59" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8-exercises/cities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <marker date="1539228656043" expanded="true" signature="42:43" ph="..." />
+            <marker date="1539228656043" expanded="true" signature="42:47" ph="..." />
           </folding>
         </state>
       </provider>
