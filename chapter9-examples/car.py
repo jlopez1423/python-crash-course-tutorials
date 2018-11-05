@@ -30,7 +30,8 @@ class Car:
     def increment_odometer(self, mileage):
         self.odometer_reading += mileage
 
-class Battery():
+
+class Battery:
     """A simple attempt to model a battery for an electric car."""
     def __init__(self, battery_size=70):
         """Initialize the battery's attributes"""
@@ -39,6 +40,18 @@ class Battery():
     def describe_battery(self):
         """Print a statement describing the battery size."""
         print("This car has a " + str(self.batter_size) + "-kWh battery.")
+
+    def get_range(self):
+        """Print a statement about the range this battery provides"""
+        if self.batter_size == 70:
+            range = 240
+        elif self.batter_size == 85:
+            range = 270
+
+        message = "This car can go approximately " + str(range)
+        message += " miles on a full charge."
+        print(message)
+
 
 class ElectricCar(Car):
     """Represents aspects of a car, specific to electric vehicles."""
@@ -57,6 +70,7 @@ class ElectricCar(Car):
 my_tesla = ElectricCar('tesla', 'model s', 2016)
 print(my_tesla.get_descriptive_name())
 my_tesla.battery.describe_battery()
+my_tesla.battery.get_range()
 
 my_new_car = Car('audi', 'a4', 2016)
 print(my_new_car.get_descriptive_name())
