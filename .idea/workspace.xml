@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd252e6-51fe-4887-ac3c-d6b74bcbd907" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter9-exercises/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter9-examples/electric_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter9-examples/my_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter9-examples/my_cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter9-examples/my_electric_car.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter9-examples/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9-examples/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter9-exercises/restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9-exercises/restaurant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter9-exercises/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9-exercises/admin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,36 +20,36 @@
     <session id="1156865148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="73" />
+          <entry key="py" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="73" />
+          <entry key="Python" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="24194" />
+          <entry key="py" value="24561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="24194" />
+          <entry key="Python" value="24561" />
         </counts>
       </usages-collector>
     </session>
@@ -69,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter9-exercises/restaurant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
+            <state relative-caret-position="646">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <marker date="1541389921411" expanded="true" signature="17:18" ph="..." />
@@ -79,14 +82,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter9-exercises/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+            <state relative-caret-position="608">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <marker date="1541390961238" expanded="true" signature="655:835" ph="..." />
-                <marker date="1541390961238" expanded="true" signature="854:855" ph="..." />
+                <marker date="1541649298148" expanded="true" signature="655:836" ph="..." />
+                <marker date="1541649298148" expanded="true" signature="855:856" ph="..." />
               </folding>
             </state>
           </provider>
@@ -95,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter9-exercises/users.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="22" />
+            <state relative-caret-position="342">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding>
                 <marker date="1540782100648" expanded="true" signature="12:13" ph="..." />
                 <marker date="1540782100648" expanded="true" signature="12:18" ph="..." />
@@ -108,13 +111,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter9-examples/car.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="589">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <marker date="1541389409527" expanded="true" signature="10:15" ph="..." />
-                <marker date="1541389409527" expanded="true" signature="1077:1797" ph="..." />
-                <marker date="1541389409527" expanded="true" signature="1820:1891" ph="..." />
+                <marker date="1541650464743" expanded="true" signature="10:15" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter9-examples/my_car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter9-examples/my_electric_car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter9-examples/my_cars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter9-examples/electric_car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -139,10 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter-4-examples/dimensions.py" />
-        <option value="$PROJECT_DIR$/chapter-4-exercises/buffet.py" />
-        <option value="$PROJECT_DIR$/chapter-6-examples/alien.py" />
-        <option value="$PROJECT_DIR$/chapter-6-examples/favorite-languages.py" />
         <option value="$PROJECT_DIR$/chapter-6-exercises/person.py" />
         <option value="$PROJECT_DIR$/chapter-6-exercises/favoriteNumbers.py" />
         <option value="$PROJECT_DIR$/chapter-6-examples/user.py" />
@@ -187,9 +223,13 @@
         <option value="$PROJECT_DIR$/chapter8-exercises/printing_models.py" />
         <option value="$PROJECT_DIR$/chapter9-examples/dog.py" />
         <option value="$PROJECT_DIR$/chapter9-exercises/users.py" />
-        <option value="$PROJECT_DIR$/chapter9-examples/car.py" />
         <option value="$PROJECT_DIR$/chapter9-exercises/restaurant.py" />
         <option value="$PROJECT_DIR$/chapter9-exercises/admin.py" />
+        <option value="$PROJECT_DIR$/chapter9-examples/my_car.py" />
+        <option value="$PROJECT_DIR$/chapter9-examples/my_electric_car.py" />
+        <option value="$PROJECT_DIR$/chapter9-examples/car.py" />
+        <option value="$PROJECT_DIR$/chapter9-examples/electric_car.py" />
+        <option value="$PROJECT_DIR$/chapter9-examples/my_cars.py" />
       </list>
     </option>
   </component>
@@ -200,10 +240,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1440" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="x" value="1698" />
+    <option name="y" value="383" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -211,17 +251,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8-examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
@@ -237,7 +273,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,7 +450,7 @@
     <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15921193" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15921193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -425,7 +460,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28025478" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35881105" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -445,10 +480,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter-4-examples/dimensions.py" />
-    <entry file="file://$PROJECT_DIR$/chapter-4-exercises/buffet.py" />
-    <entry file="file://$PROJECT_DIR$/chapter-6-examples/alien.py" />
-    <entry file="file://$PROJECT_DIR$/chapter-6-examples/favorite-languages.py" />
     <entry file="file://$PROJECT_DIR$/chapter-6-exercises/pers.py" />
     <entry file="file://$PROJECT_DIR$/chapter-6-exercises/pets.py" />
     <entry file="file://$PROJECT_DIR$/chapter-6-exercises/people.py" />
@@ -672,20 +703,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter9-exercises/users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" />
-          <folding>
-            <marker date="1540782100648" expanded="true" signature="12:13" ph="..." />
-            <marker date="1540782100648" expanded="true" signature="12:18" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter9-exercises/restaurant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
+        <state relative-caret-position="646">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <marker date="1541389921411" expanded="true" signature="17:18" ph="..." />
@@ -694,25 +714,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter9-examples/car.py">
+    <entry file="file://$PROJECT_DIR$/chapter9-exercises/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="608">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <marker date="1541389409527" expanded="true" signature="10:15" ph="..." />
-            <marker date="1541389409527" expanded="true" signature="1077:1797" ph="..." />
-            <marker date="1541389409527" expanded="true" signature="1820:1891" ph="..." />
+            <marker date="1541649298148" expanded="true" signature="655:836" ph="..." />
+            <marker date="1541649298148" expanded="true" signature="855:856" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter9-exercises/admin.py">
+    <entry file="file://$PROJECT_DIR$/chapter9-exercises/users.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+        <state relative-caret-position="342">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
-            <marker date="1541390961238" expanded="true" signature="655:835" ph="..." />
-            <marker date="1541390961238" expanded="true" signature="854:855" ph="..." />
+            <marker date="1540782100648" expanded="true" signature="12:13" ph="..." />
+            <marker date="1540782100648" expanded="true" signature="12:18" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9-examples/my_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9-examples/my_electric_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9-examples/electric_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9-examples/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1541650464743" expanded="true" signature="10:15" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9-examples/my_cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>

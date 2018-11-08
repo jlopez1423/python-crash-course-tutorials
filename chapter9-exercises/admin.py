@@ -30,6 +30,7 @@ class Privileges:
         for privileges in self.privileges:
             print(privileges)
 
+
 class Admin(Users):
 
     def __init__(self, first_name, last_name, age, email, privileges):
