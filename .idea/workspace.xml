@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd252e6-51fe-4887-ac3c-d6b74bcbd907" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter11-examples/name_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11-examples/names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter10-examples/write_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter10-examples/write_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10-examples/remember_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter10-examples/remember_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter10-examples/username.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,34 +24,38 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="10" />
-          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="83" />
-          <entry key="txt" value="5" />
+          <entry key="json" value="2" />
+          <entry key="py" value="92" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="83" />
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="25390" />
+          <entry key="json" value="1" />
+          <entry key="py" value="27381" />
           <entry key="txt" value="96" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="96" />
-          <entry key="Python" value="25390" />
+          <entry key="Python" value="27381" />
         </counts>
       </usages-collector>
     </session>
@@ -56,16 +63,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter10-exercises/learning_python.txt">
+        <entry file="file://$PROJECT_DIR$/chapter10-exercises/addition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter10-exercises/learning_python.py">
+        <entry file="file://$PROJECT_DIR$/chapter10-examples/number_writer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -74,33 +81,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter10-examples/write_message.py">
+        <entry file="file://$PROJECT_DIR$/chapter10-examples/numbers.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+            <state>
+              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter10-examples/programming.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/chapter10-examples/number_reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter10-exercises/guest.py">
+        <entry file="file://$PROJECT_DIR$/chapter10-examples/remember_me.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter11-examples/name_function.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <marker date="1543555211779" expanded="true" signature="36:41" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter10-exercises/guest.txt">
+        <entry file="file://$PROJECT_DIR$/chapter11-examples/names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+            <state relative-caret-position="209">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter10-examples/greet_user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -125,15 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter-6-examples/aliens.py" />
-        <option value="$PROJECT_DIR$/chapter-6-examples/pizza.py" />
-        <option value="$PROJECT_DIR$/chapter-6-exercises/people.py" />
-        <option value="$PROJECT_DIR$/chapter-6-exercises/pers.py" />
-        <option value="$PROJECT_DIR$/chapter-6-exercises/pets.py" />
-        <option value="$PROJECT_DIR$/chapter7-examples/parrot.py" />
-        <option value="$PROJECT_DIR$/chapter7-examples/greeter.py" />
-        <option value="$PROJECT_DIR$/chapter7-exercises/rentalCar.py" />
-        <option value="$PROJECT_DIR$/chapter7-exercises/restaurantSeating.py" />
         <option value="$PROJECT_DIR$/chapter7-exercises/multipleOfTen.py" />
         <option value="$PROJECT_DIR$/chapter7-exercises/pizzaToppings.py" />
         <option value="$PROJECT_DIR$/chapter7-exercises/movieTickets.py" />
@@ -176,6 +199,15 @@
         <option value="$PROJECT_DIR$/chapter10-exercises/learning_python.py" />
         <option value="$PROJECT_DIR$/chapter10-examples/write_message.py" />
         <option value="$PROJECT_DIR$/chapter10-exercises/guest.py" />
+        <option value="$PROJECT_DIR$/chapter10-exercises/guest_book.py" />
+        <option value="$PROJECT_DIR$/chapter10-exercises/programming_poll.py" />
+        <option value="$PROJECT_DIR$/chapter10-exercises/addition.py" />
+        <option value="$PROJECT_DIR$/chapter10-examples/number_writer.py" />
+        <option value="$PROJECT_DIR$/chapter10-examples/number_reader.py" />
+        <option value="$PROJECT_DIR$/chapter10-examples/greet_user.py" />
+        <option value="$PROJECT_DIR$/chapter10-examples/remember_me.py" />
+        <option value="$PROJECT_DIR$/chapter11-examples/name_function.py" />
+        <option value="$PROJECT_DIR$/chapter11-examples/names.py" />
       </list>
     </option>
   </component>
@@ -208,12 +240,7 @@
             <path>
               <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10-examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-crash-course-tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-crash-course-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter11-examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -395,12 +422,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12300319" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124068156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -426,67 +454,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter-6-examples/aliens.py" />
-    <entry file="file://$PROJECT_DIR$/chapter-6-examples/pizza.py" />
-    <entry file="file://$PROJECT_DIR$/chapter-6-exercises/rivers.py" />
-    <entry file="file://$PROJECT_DIR$/chapter7-examples/parrot.py" />
-    <entry file="file://$PROJECT_DIR$/chapter7-examples/greeter.py" />
-    <entry file="file://$PROJECT_DIR$/chapter7-exercises/rentalCar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7-exercises/restaurantSeating.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7-exercises/multipleOfTen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7-exercises/pizzaToppings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7-exercises/movieTickets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7-examples/confirmedUsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7-examples/mountain_poll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7-exercises/deli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter7-exercises/dream_vacation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -641,10 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <marker date="1541389921411" expanded="true" signature="17:18" ph="..." />
-            <marker date="1541389921411" expanded="true" signature="639:885" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,10 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <marker date="1541649298148" expanded="true" signature="655:836" ph="..." />
-            <marker date="1541649298148" expanded="true" signature="855:856" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,10 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <marker date="1540782100648" expanded="true" signature="12:13" ph="..." />
-            <marker date="1540782100648" expanded="true" signature="12:18" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,9 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <marker date="1541650464743" expanded="true" signature="10:15" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,9 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,13 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10-exercises/learning_python.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -732,12 +674,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10-exercises/learning_python.py">
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/poll_results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/programming_poll.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/guest_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/guest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-examples/programming.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter10-examples/write_message.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -746,20 +712,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10-exercises/guest.py">
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/learning_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter10-examples/programming.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/learning_python.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/guestbook.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter10-exercises/guest.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-exercises/addition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-examples/number_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-examples/numbers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-examples/number_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-examples/greet_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-examples/username.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10-examples/remember_me.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11-examples/name_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <marker date="1543555211779" expanded="true" signature="36:41" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter11-examples/names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
